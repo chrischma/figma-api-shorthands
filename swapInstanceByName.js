@@ -11,4 +11,4 @@
   }
 
   // example
-  swapInstance('(Name of your layer)', 'Name of the instance to use')
+  swapInstanceByName('(Name of your layer)', 'Name of the instance to use')
